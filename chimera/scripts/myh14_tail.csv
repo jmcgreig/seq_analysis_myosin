@@ -1,0 +1,53 @@
+tag,id,Species,Mass (kg),Clade
+A0A1A6HX72,95.18,Neotoma lepida ,0.14,Euarchontoglires
+A0A1S3G524,90.45,Dipodomys ordii ,0.0755,Euarchontoglires
+A0A1S3WLM3,88.24,Erinaceus europaeus ,0.6,Laurasiatheria
+A0A2I2UFS4,88.11,Felis catus ,4.75,Laurasiatheria
+A0A2I3H5Z6,87.23,Nomascus leucogenys ,5.7,Euarchontoglires
+A0A2I3MD59,90.65,Papio anubis ,19.5,Euarchontoglires
+A0A2J8J168,90.23,Pan troglodytes ,48,Euarchontoglires
+A0A2J8U8T0,90.06,Pongo abelii ,60,Euarchontoglires
+A0A2K5HX31,84.86,Colobus angolensis palliatus ,8.9,Euarchontoglires
+A0A2K5VX94,90.48,Macaca fascicularis ,6.55,Euarchontoglires
+A0A2K5YCX8,90.36,Mandrillus leucophaeus ,18.25,Euarchontoglires
+A0A2K6C9Z2,89.46,Macaca nemestrina ,6.55,Euarchontoglires
+A0A2K6LA72,90.65,Rhinopithecus bieti ,10,Euarchontoglires
+A0A2K6Q5L3,90.65,Rhinopithecus roxellana ,16.4,Euarchontoglires
+A0A2R9A942,90.06,Pan paniscus ,44,Euarchontoglires
+A0A2Y9DV83,87.77,Trichechus manatus latirostris ,480,zAfrotheria
+A0A2Y9GDE9,87.26,Neomonachus schauinslandi ,220,Laurasiatheria
+A0A2Y9PF08,88.46,Delphinapterus leucas ,1400,Laurasiatheria
+A0A2Y9TF26,88.71,Physeter macrocephalus ,42500,Laurasiatheria
+A0A340XVX0,89.1,Lipotes vexillifer ,104.5,Laurasiatheria
+A0A341DBF7,88.46,Neophocaena asiaeorientalis asiaeorientalis ,32,Laurasiatheria
+A0A3Q0DF64,93.8,Mesocricetus auratus ,0.099,Euarchontoglires
+A0A3Q7W1N6,86.98,Ursus arctos horribilis ,270,Laurasiatheria
+A0A452FDI1,89.05,Capra hircus ,45,Euarchontoglires
+A0A452RWM8,86.2,Ursus americanus ,300,Laurasiatheria
+A0A4U1FTS3,88.54,Monodon monoceros ,940,Laurasiatheria
+A0A4W2CNE0,89.22,Bos taurus indicus,800,Laurasiatheria
+A0A4X1VWS0,88.95,Sus scrofa ,169,Laurasiatheria
+A0A5E4BWR8,91.09,Marmota monax ,3.9,Euarchontoglires
+A0A5F4BZ15,88.19,Canis lupus familiaris ,35.5,Laurasiatheria
+A0A5N4DUQ2,89.09,Camelus dromedarius ,495,Laurasiatheria
+A0A667HFT2,88.11,Lynx canadensis ,11,Laurasiatheria
+A0A671E954,89.04,Rhinolophus ferrumequinum ,0.023,Laurasiatheria
+A0A6B0RSM7,84.59,Bos mutus ,562.5,Laurasiatheria
+A0A6I9M232,95.42,Peromyscus maniculatus bairdii ,0.017,Euarchontoglires
+A0A6J0AMJ8,89.05,Vicugna pacos ,60,Laurasiatheria
+A0A6J2EVJ3,87.17,Zalophus californianus ,350,Laurasiatheria
+A0A6J3QGV3,88.71,Tursiops truncatus ,400,Laurasiatheria
+F1LNF0,97.11,Rattus norvegicus ,0.325,Euarchontoglires
+F7BV56,88.44,Equus caballus ,563.5,Laurasiatheria
+G1M4F8,85.8,Ailuropoda melanoleuca ,102.5,Laurasiatheria
+G3I729,94.82,Cricetulus griseus ,0.0224,Euarchontoglires
+G3UN90,88.53,Loxodonta africana ,4800,zAfrotheria
+H0UY16,87.88,Cavia porcellus ,0.9,Euarchontoglires
+H0WM04,90.57,Otolemur garnettii ,0.1025,Euarchontoglires
+K9IPE8,88.36,Desmodus rotundus ,0.033,Euarchontoglires
+L9J9W2,89.89,Tupaia chinensis ,0.16,Euarchontoglires
+M3XSD4,86.68,Mustela putorius furo ,1.5,Laurasiatheria
+Q6URW6,100,Mus musculus ,0.017,Euarchontoglires
+Q7Z406,90.23,Homo sapiens ,68,Euarchontoglires
+U3EZ92,89.97,Callithrix jacchus ,0.33,Euarchontoglires
+W5PWH2,87.15,Ovis aries ,110,Laurasiatheria
