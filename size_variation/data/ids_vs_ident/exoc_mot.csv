@@ -1,0 +1,61 @@
+tag,id,Species,Mass (kg),Clade
+XP+AF8-012633298.1,97.624999,Ailuropoda melanoleuca,102.5,Laurasiatheria
+XP+AF8-010964315.1,96.249998,Bison bison bison,600,Laurasiatheria
+XP+AF8-014405341.1,97.125,Bos mutus,562.5,Laurasiatheria
+XP+AF8-011225746.1,95.749998,Camelus bactrianus,475,Laurasiatheria
+tr+AHw-S9XET7+AHw-S9XET7+AF8-CAMFR,97.2332,Camelus ferus,800,Laurasiatheria
+XP+AF8-003639083.2,97.500002,Canis lupus familiaris,35.5,Laurasiatheria
+XP+AF8-005693630.1,97.375,Capra hircus,45,Laurasiatheria
+XP+AF8-003466265.1,97.624999,Cavia porcellus,0.9,Euarchontoglires
+XP+AF8-014719641.1,96.875,Ceratotherium simum simum,2520,Laurasiatheria
+XP+AF8-013836779.1,96.875,Chinchilla lanigera,0.65,Euarchontoglires
+XP+AF8-008048945.1,97.750002,Chlorocebus sabaeus,5,Euarchontoglires
+XP+AF8-006863569.1,96.749997,Chrysochloris asiatica,0.042,zAfrotheria
+XP+AF8-004685141.1,98.500001,Condylura cristata,0.055,Laurasiatheria
+XP+AF8-008008552.1,98.500001,Cricetulus griseus,0.0224,Euarchontoglires
+XP+AF8-004483206.1,94.875002,Dasypus novemcinctus,5.5,Metatheria
+XP+AF8-013377566.1,97.750002,Dipodomys ordii,0.0755,Euarchontoglires
+XP+AF8-006898639.1,98.624998,Elephantulus edwardii,0.0695,zAfrotheria
+XP+AF8-008526972.1,96.249998,Eptesicus fuscus,0.023,Laurasiatheria
+XP+AF8-014974083.1,98.250002,Equus asinus,250,Laurasiatheria
+XP+AF8-005597841.1,97.125,Equus caballus,563.5,Laurasiatheria
+XP+AF8-008571174.1,96.249998,Equus przewalskii,250,Laurasiatheria
+XP+AF8-017827179.1,98.250002,Erinaceus europaeus,0.6,Laurasiatheria
+XP+AF8-006939854.1,97.500002,Felis catus,4.75,Laurasiatheria
+XP+AF8-010841493.1,95.723271,Fukomys damarensis,0.144,Euarchontoglires
+XP+AF8-008686234.1,97.000003,Galeopterus variegatus,1.45,Euarchontoglires
+XP+AF8-004058631.1,97.874999,Gorilla gorilla gorilla,140,Euarchontoglires
+XP+AF8-004857587.1,97.125,Heterocephalus glaber,0.055,Euarchontoglires
+NP+AF8-003793.2,98.124999,Homo sapiens,68,Euarchontoglires
+XP+AF8-005332932.1,98.750001,Ictidomys tridecemlineatus,0.125,Euarchontoglires
+XP+AF8-004663189.1,99.5,Jaculus jaculus,0.6,Euarchontoglires
+XP+AF8-006744847.1,94.479299,Lipotes vexillifer,104.5,Laurasiatheria
+XP+AF8-003416837.1,95.625001,Loxodonta africana,4800,zAfrotheria
+XP+AF8-015360011.1,98.750001,Macaca fascicularis,6.55,Euarchontoglires
+XP+AF8-015293130.1,98.250002,Macaca mulatta,8,Euarchontoglires
+XP+AF8-015394673.1,96.625,Marmota marmota marmota,3.5,Euarchontoglires
+XP+AF8-005067661.1,99.75,Mesocricetus auratus,0.099,Euarchontoglires
+XP+AF8-012661392.1,98.000002,Microcebus murinus,0.06,Euarchontoglires
+XP+AF8-005349898.1,99.000001,Microtus ochrogaster,0.05,Euarchontoglires
+XP+AF8-007633776.1,99.75,Monodelphis domestica,0.048,Metatheria
+NP+AF8-001074719.1,100,Mus musculus,0.017,Euarchontoglires
+XP+AF8-004760224.1,97.874999,Mustela putorius furo,1.5,Laurasiatheria
+XP+AF8-014446356.1,97.874999,Myotis brandtii,0.0069,Laurasiatheria
+XP+AF8-008969587.2,98.124999,Nannospalax galili,0.375,Euarchontoglires
+XP+AF8-003274728.1,97.874999,Nomascus leucogenys,5.7,Euarchontoglires
+XP+AF8-012868613.1,98.624998,Ochotona princeps,0.1485,Euarchontoglires
+XP+AF8-004398675.1,94.625002,Odobenus rosmarus divergens,1050,Laurasiatheria
+NP+AF8-001156538.1,98.124999,Oryctolagus cuniculus,2,Euarchontoglires
+XP+AF8-012785154.1,97.619045,Otolemur garnettii,0.1025,Euarchontoglires
+XP+AF8-009187939.2,98.124999,Pan paniscus,44,Euarchontoglires
+XP+AF8-010377896.1,98.124999,Pan troglodytes,48,Euarchontoglires
+XP+AF8-016042784.1,97.375,Panthera tigris altaica,176.4,Laurasiatheria
+XP+AF8-009431024.1,98.124999,Papio anubis,19.5,Euarchontoglires
+XP+AF8-006973570.1,99.75,Peromyscus maniculatus bairdii,0.017,Euarchontoglires
+XP+AF8-006922453.1,98.000002,Pteropus alecto,0.74,Laurasiatheria
+XP+AF8-010613330.1,96.375,Rhinopithecus roxellana,16.4,Euarchontoglires
+XP+AF8-003759385.1,94.875002,Sarcophilus harrisii,8,Metatheria
+XP+AF8-014337467.1,97.750002,Sus scrofa,169,Laurasiatheria
+XP+AF8-008151808.1,97.500002,Tarsius syrichta,0.1315,Euarchontoglires
+XP+AF8-014644987.1,95.875001,Tupaia chinensis,0.16,Euarchontoglires
+XP+AF8-008853944.1,98.874998,Ursus maritimus,475,Laurasiatheria

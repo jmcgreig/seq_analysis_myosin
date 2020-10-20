@@ -1,0 +1,55 @@
+tag,id,Species,Mass (kg),Clade
+XP+AF8-002921232.1,96.481973,Ailuropoda melanoleuca,102.5,Laurasiatheria
+XP+AF8-007175342.1,93.339336,Balaenoptera acutorostrata scammoni,9200,Laurasiatheria
+XP+AF8-010841310.1,96.218115,Bison bison bison,600,Laurasiatheria
+NP+AF8-001193103.1,96.218115,Bos taurus,455,Laurasiatheria
+XP+AF8-006055112.1,96.218115,Bubalus bubalis,725,Laurasiatheria
+XP+AF8-008994767.1,96.921724,Callithrix jacchus,0.33,Euarchontoglires
+XP+AF8-010964288.1,95.410413,Camelus bactrianus,475,Laurasiatheria
+XP+AF8-014408080.1,96.111113,Camelus ferus,800,Laurasiatheria
+NP+AF8-001070703.1,96.218115,Canis lupus familiaris,35.5,Laurasiatheria
+XP+AF8-011906164.1,97.097623,Cercocebus atys,9.5,Euarchontoglires
+XP+AF8-008008563.1,97.097623,Chlorocebus sabaeus,5,Euarchontoglires
+XP+AF8-006863488.1,96.218115,Chrysochloris asiatica,0.042,zAfrotheria
+XP+AF8-011788643.1,96.56992,Colobus angolensis palliatus,8.9,Euarchontoglires
+XP+AF8-012868612.1,97.625327,Dipodomys ordii,0.0755,Euarchontoglires
+tr+AHw-F6UP52+AHw-F6UP52+AF8-HORSE,96.921724,Equus caballus,563.5,Laurasiatheria
+tr+AHw-M3WDH8+AHw-M3WDH8+AF8-FELCA,95.25066,Felis catus,4.75,Laurasiatheria
+XP+AF8-010613284.1,96.745825,Fukomys damarensis,0.144,Euarchontoglires
+XP+AF8-004058638.1,96.657872,Gorilla gorilla gorilla,140,Euarchontoglires
+NP+AF8-002463.2,96.657872,Homo sapiens,68,Euarchontoglires
+tr+AHw-I3MBZ4+AHw-I3MBZ4+AF8-ICTTR,97.866666,Ictidomys tridecemlineatus,0.125,Euarchontoglires
+XP+AF8-007457921.1,76.901668,Lipotes vexillifer,104.5,Laurasiatheria
+XP+AF8-003416975.1,95.602465,Loxodonta africana,4800,zAfrotheria
+XP+AF8-005582958.1,97.185576,Macaca fascicularis,6.55,Euarchontoglires
+XP+AF8-001113700.1,97.009677,Macaca mulatta,8,Euarchontoglires
+XP+AF8-011725690.1,97.185576,Macaca nemestrina,6.55,Euarchontoglires
+XP+AF8-011828575.1,97.185576,Mandrillus leucophaeus,18.25,Euarchontoglires
+XP+AF8-001371505.1,92.524189,Monodelphis domestica,0.048,Metatheria
+NP+AF8-796343.2,100,Mus musculus,0.017,Euarchontoglires
+tr+AHw-M3Y2P8+AHw-M3Y2P8+AF8-MUSPF,96.56992,Mustela putorius furo,1.5,Laurasiatheria
+XP+AF8-006761787.1,92.984098,Myotis davidii,0.0085,Laurasiatheria
+tr+AHw-G1PUH7+AHw-G1PUH7+AF8-MYOLU,96.047795,Myotis lucifugus,0.008,Laurasiatheria
+XP+AF8-008853937.1,97.009677,Nannospalax galili,0.375,Euarchontoglires
+XP+AF8-003274734.1,96.56992,Nomascus leucogenys,5.7,Euarchontoglires
+XP+AF8-007946222.1,95.690411,Orycteropus afer afer,61,zAfrotheria
+XP+AF8-002719006.1,97.185576,Oryctolagus cuniculus,2,Euarchontoglires
+tr+AHw-H0X5N0+AHw-H0X5N0+AF8-OTOGA,95.338613,Otolemur garnettii,0.1025,Euarchontoglires
+tr+AHw-W5PBN5+AHw-W5PBN5+AF8-SHEEP,95.394152,Ovis aries,110,Laurasiatheria
+XP+AF8-008969588.1,96.657872,Pan paniscus,44,Euarchontoglires
+XP+AF8-511839.2,96.657872,Pan troglodytes,48,Euarchontoglires
+XP+AF8-007086009.1,94.518125,Panthera tigris altaica,176.4,Laurasiatheria
+XP+AF8-005959864.1,95.158452,Pantholops hodgsonii,33,Laurasiatheria
+XP+AF8-009187945.1,97.097623,Papio anubis,19.5,Euarchontoglires
+XP+AF8-006973568.1,98.504835,Peromyscus maniculatus bairdii,0.017,Euarchontoglires
+XP+AF8-007123482.1,94.976306,Physeter catodon,42500,Laurasiatheria
+XP+AF8-009249569.1,96.481973,Pongo abelii,60,Euarchontoglires
+XP+AF8-006922496.1,95.639247,Pteropus alecto,0.74,Laurasiatheria
+NP+AF8-001093955.1,99.120492,Rattus norvegicus,0.325,Euarchontoglires
+XP+AF8-010377893.1,96.56992,Rhinopithecus roxellana,16.4,Euarchontoglires
+XP+AF8-010338308.1,94.236046,Saimiri boliviensis boliviensis,0.75,Euarchontoglires
+tr+AHw-G3W5Q5+AHw-G3W5Q5+AF8-SARHA,91.540128,Sarcophilus harrisii,8,Metatheria
+XP+AF8-012787140.1,96.306068,Sorex araneus,0.0095,Laurasiatheria
+XP+AF8-008048946.1,97.185576,Tarsius syrichta,0.1315,Euarchontoglires
+XP+AF8-006156478.1,96.745825,Tupaia chinensis,0.16,Euarchontoglires
+XP+AF8-008686236.1,96.035242,Ursus maritimus,475,Laurasiatheria

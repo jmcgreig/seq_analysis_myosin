@@ -1,0 +1,42 @@
+tag,id,Species,Mass (kg),Clade
+XP+AF8-004603960.1,98.946446,Sorex araneus,0.0095,Laurasiatheria
+NP+AF8-109604.1,100,Mus musculus,0.017,Euarchontoglires
+XP+AF8-006973573.1,99.824405,Peromyscus maniculatus bairdii,0.017,Euarchontoglires
+XP+AF8-003497541.1,99.824405,Cricetulus griseus,0.0224,Euarchontoglires
+XP+AF8-001371553.1,98.068482,Monodelphis domestica,0.048,Metatheria
+XP+AF8-005349901.1,99.561018,Microtus ochrogaster,0.05,Euarchontoglires
+XP+AF8-012633205.1,98.244071,Microcebus murinus,0.06,Euarchontoglires
+XP+AF8-012868614.1,99.034238,Dipodomys ordii,0.0755,Euarchontoglires
+XP+AF8-013217180.1,98.770851,Ictidomys tridecemlineatus,0.125,Euarchontoglires
+XP+AF8-008048950.1,98.331869,Tarsius syrichta,0.1315,Euarchontoglires
+XP+AF8-010613291.1,98.156279,Fukomys damarensis,0.144,Euarchontoglires
+tr+AHw-L9JS86+AHw-L9JS86+AF8-TUPCH,93.064094,Tupaia chinensis,0.16,Euarchontoglires
+NP+AF8-001128630.1,99.648815,Rattus norvegicus,0.325,Euarchontoglires
+XP+AF8-017827769.1,98.156279,Callithrix jacchus,0.33,Euarchontoglires
+XP+AF8-017650516.1,98.683053,Nannospalax galili,0.375,Euarchontoglires
+XP+AF8-004663186.1,98.683053,Jaculus jaculus,0.6,Euarchontoglires
+XP+AF8-013377565.1,97.717297,Chinchilla lanigera,0.65,Euarchontoglires
+XP+AF8-012308492.1,97.980684,Aotus nancymaae,0.75,Euarchontoglires
+XP+AF8-003466267.1,97.717297,Cavia porcellus,0.9,Euarchontoglires
+XP+AF8-008008560.1,97.366112,Chlorocebus sabaeus,5,Euarchontoglires
+XP+AF8-003274731.1,97.10272,Nomascus leucogenys,5.7,Euarchontoglires
+XP+AF8-015293128.1,97.190517,Macaca fascicularis,6.55,Euarchontoglires
+XP+AF8-011725695.1,97.190517,Macaca nemestrina,6.55,Euarchontoglires
+XP+AF8-014973972.1,97.10272,Macaca mulatta,8,Euarchontoglires
+XP+AF8-011788647.1,97.366112,Colobus angolensis palliatus,8.9,Euarchontoglires
+XP+AF8-011906151.1,97.170645,Cercocebus atys,9.5,Euarchontoglires
+XP+AF8-010377895.1,97.190517,Rhinopithecus roxellana,16.4,Euarchontoglires
+XP+AF8-011828559.1,97.278315,Mandrillus leucophaeus,18.25,Euarchontoglires
+XP+AF8-003912394.1,97.014928,Papio anubis,19.5,Euarchontoglires
+XP+AF8-005619524.1,97.366112,Canis lupus familiaris,35.5,Laurasiatheria
+XP+AF8-008969596.1,96.92713,Pan paniscus,44,Euarchontoglires
+XP+AF8-003953177.1,96.92713,Pan troglodytes,48,Euarchontoglires
+XP+AF8-002827078.1,97.014928,Pongo abelii,60,Euarchontoglires
+XP+AF8-007946227.1,97.014928,Orycteropus afer afer,61,zAfrotheria
+sp+AHw-P12882+AHw-MYH1+AF8-HUMAN,97.014928,Homo sapiens,68,Euarchontoglires
+XP+AF8-011977810.1,96.224761,Ovis aries,110,Laurasiatheria
+NP+AF8-001098421.1,96.751535,Sus scrofa,169,Laurasiatheria
+XP+AF8-007086011.1,97.190517,Panthera tigris altaica,176.4,Laurasiatheria
+sp+AHw-Q9BE40+AHw-MYH1+AF8-BOVIN,96.136963,Bos Taurus,465,Laurasiatheria
+XP+AF8-005597093.1,96.488148,Equus caballus,563.5,Laurasiatheria
+XP+AF8-003416977.1,95.171201,Loxodonta africana,4800,zAfrotheria

@@ -1,0 +1,59 @@
+Species,dn,ds,Mass (kg),Clade,dn/ds
+Ailuropoda melanoleuca,0.0153,0.8348,102.5,Laurasiatheria,0.0183277432
+Balaenoptera acutorostrata scammoni,0.0258,0.7056,9200,Laurasiatheria,0.0365646259
+Bison bison bison,0.0198,0.81,600,Laurasiatheria,0.0244444444
+Bos mutus,0.0182,0.8007,562.5,Laurasiatheria,0.0227301112
+Bos taurus,0.0178,0.7893,455,Laurasiatheria,0.022551628
+Bubalus bubalis,0.017,0.8138,725,Laurasiatheria,0.0208896535
+Callithrix jacchus,0.011,0.6439,0.33,Euarchontoglires,0.017083398
+Camelus bactrianus,0.0199,0.7221,475,Laurasiatheria,0.0275585099
+Camelus dromedarius,0.0265,0.7197,495,Laurasiatheria,0.0368208976
+Camelus ferus,0.0191,0.7284,800,Laurasiatheria,0.0262218561
+Canis lupus familiaris,0.0132,0.8263,35.5,Laurasiatheria,0.0159748275
+Cavia porcellus,0.0107,0.8665,0.9,Euarchontoglires,0.0123485286
+Ceratotherium simum simum,0.012,0.6349,2520,Laurasiatheria,0.0189006143
+Cercocebus atys,0.0112,0.6627,9.5,Euarchontoglires,0.0169005583
+Chinchilla lanigera,0.0111,0.6505,0.65,Euarchontoglires,0.0170637971
+Chlorocebus sabaeus,0.0116,0.6344,5,Euarchontoglires,0.0182849937
+Condylura cristata,0.0142,0.6906,0.055,Laurasiatheria,0.0205618303
+Cricetulus griseus,0.0068,0.3582,0.0224,Euarchontoglires,0.0189838079
+Dasypus novemcinctus,0.0157,0.7835,5.5,Metatheria,0.0200382897
+Dipodomys ordii,0.0088,0.7578,0.0755,Euarchontoglires,0.0116125627
+Eptesicus fuscus,0.0173,0.6986,0.023,Laurasiatheria,0.0247638133
+Equus caballus,0.0121,0.6018,563.5,Laurasiatheria,0.0201063476
+Equus przewalskii,0.0133,0.6054,250,Laurasiatheria,0.0219689462
+Erinaceus europaeus,0.014,0.7513,0.6,Laurasiatheria,0.0186343671
+Felis catus,0.015,0.7824,4.75,Laurasiatheria,0.0191717791
+Fukomys damarensis,0.0106,0.6209,0.144,Euarchontoglires,0.0170719923
+Homo sapiens,0.0113,0.6498,68,Euarchontoglires,0.0173899661
+Ictidomys tridecemlineatus,0.0078,0.6517,0.125,Euarchontoglires,0.0119686973
+Jaculus jaculus,0.0131,0.6447,0.6,Euarchontoglires,0.0203195285
+Leptonychotes weddellii,0.0126,0.8248,500,Laurasiatheria,0.0152764306
+Lipotes vexillifer,0.0391,0.6393,104.5,Laurasiatheria,0.0611606445
+Macaca fascicularis,0.0116,0.653,6.55,Euarchontoglires,0.0177641654
+Mandrillus leucophaeus,0.0112,0.6462,18.25,Euarchontoglires,0.0173320953
+Microtus ochrogaster,0.004,0.3944,0.05,Euarchontoglires,0.0101419878
+Monodelphis domestica,0.033,1.1012,0.048,Euarchontoglires,0.0299673084
+Mustela putorius furo,0.0142,0.9761,1.5,Laurasiatheria,0.0145476898
+Myotis brandtii,0.0172,0.7537,0.0069,Laurasiatheria,0.022820751
+Myotis lucifugus,0.0181,0.7727,0.008,Laurasiatheria,0.0234243562
+Nannospalax galili,0.0052,0.5967,0.375,Euarchontoglires,0.0087145969
+Nomascus leucogenys,0.0105,0.6257,5.7,Euarchontoglires,0.0167812051
+Octodon degus,0.0097,0.618,0.235,Euarchontoglires,0.0156957929
+Odobenus rosmarus divergens,0.0128,0.8034,1050,Laurasiatheria,0.0159322878
+Orcinus orca,0.0283,0.6686,7200,Laurasiatheria,0.042327251
+Oryctolagus cuniculus,0.018,1.0307,2,Euarchontoglires,0.0174638595
+Otolemur garnettii,0.0172,0.6241,0.1025,Euarchontoglires,0.0275596859
+Pan paniscus,0.0113,0.6455,44,Euarchontoglires,0.0175058095
+Panthera tigris altaica,0.0154,0.81,176.4,Laurasiatheria,0.0190123457
+Pantholops hodgsonii,0.0195,0.8185,33,Laurasiatheria,0.0238240684
+Papio anubis,0.0112,0.6763,19.5,Euarchontoglires,0.0165606979
+Peromyscus maniculatus bairdii,0.0031,0.393,0.017,Euarchontoglires,0.0078880407
+Propithecus coquereli,0.0096,0.688,0.305,Euarchontoglires,0.0139534884
+Pteropus alecto,0.0112,0.6916,0.74,Laurasiatheria,0.016194332
+Pteropus vampyrus,0.0116,0.7159,0.85,Laurasiatheria,0.0162033804
+Rattus norvegicus,0.0011,0.2597,0.325,Euarchontoglires,0.0042356565
+Sorex araneus,0.02,0.7394,0.0095,Laurasiatheria,0.0270489586
+Carlito syrichta,0.0098,0.6723,0.1315,Euarchontoglires,0.0145768258
+Tupaia chinensis,0.0118,0.6695,0.16,Euarchontoglires,0.0176250934
+Vicugna pacos,0.0179,0.7117,60,Laurasiatheria,0.0251510468

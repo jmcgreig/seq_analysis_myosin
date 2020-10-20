@@ -1,0 +1,68 @@
+tag,Species,Clade,Mass (kg),id
+XP+AF8-008564810.1,Galeopterus variegatus,Euarchontoglires,1.45,98.263252
+XP+AF8-008065968.1,Tarsius syrichta,Euarchontoglires,0.1315,98.628885
+XP+AF8-023363900.1,Otolemur garnettii,Euarchontoglires,0.1025,97.897625
+XP+AF8-003474533.1,Cavia porcellus,Euarchontoglires,0.9,99.085921
+XP+AF8-004646724.1,Octodon degus,Euarchontoglires,0.235,98.628885
+XP+AF8-015862442.1,Peromyscus maniculatus bairdii,Euarchontoglires,0.017,98.080438
+XP+AF8-007609272.1,Cricetulus griseus,Euarchontoglires,0.0224,99.634367
+XP+AF8-008838094.1,Nannospalax galili,Euarchontoglires,0.375,99.360144
+XP+AF8-004661859.1,Jaculus jaculus,Euarchontoglires,0.6,99.085921
+XP+AF8-006252013.1,Rattus norvegicus,Euarchontoglires,0.325,99.817187
+NP+AF8-542766.1,Mus musculus,Euarchontoglires,0.017,100
+XP+AF8-021058775.1,Mus pahari,Euarchontoglires,,99.817187
+XP+AF8-012504852.1,Propithecus coquereli,Euarchontoglires,4.2,98.994517
+XP+AF8-004091949.1,Nomascus leucogenys,Euarchontoglires,5.7,98.446071
+XP+AF8-024087215.1,Pongo abelii,Euarchontoglires,60,98.811698
+NP+AF8-000248.2,Homo sapiens,Euarchontoglires,68,98.720294
+XP+AF8-018865223.1,Gorilla gorilla gorilla,Euarchontoglires,140,98.354661
+XP+AF8-003808134.1,Pan paniscus,Euarchontoglires,44,98.903108
+XP+AF8-016781379.1,Pan troglodytes,Euarchontoglires,48,98.903108
+XP+AF8-002718130.1,Oryctolagus cuniculus,Euarchontoglires,2,99.085921
+XP+AF8-021796720.1,Papio anubis,Euarchontoglires,19.5,97.623402
+XP+AF8-002753688.1,Callithrix jacchus,Euarchontoglires,0.33,99.085921
+XP+AF8-012322603.1,Aotus nancymaae,Euarchontoglires,0.75,99.177331
+XP+AF8-007989071.1,Chlorocebus sabaeus,Euarchontoglires,5,99.085921
+XP+AF8-011943848.1,Cercocebus atys,Euarchontoglires,9.5,99.085921
+XP+AF8-005560929.1,Macaca fascicularis,Euarchontoglires,6.55,99.085921
+XP+AF8-011770587.1,Macaca nemestrina,Euarchontoglires,6.55,99.085921
+XP+AF8-011786220.1,Colobus angolensis palliatus,Euarchontoglires,8.9,99.085921
+XP+AF8-005343045.1,Ictidomys tridecemlineatus,Euarchontoglires,0.125,98.080438
+XP+AF8-015348060.1,Marmota marmota marmota,Euarchontoglires,3.5,99.360144
+XP+AF8-026261844.1,Urocitellus parryii,Euarchontoglires,0.791,99.177331
+XP+AF8-020037197.1,Castor canadensis,Euarchontoglires,22.5,99.177331
+XP+AF8-005882279.1,Myotis brandtii,Laurasiatheria,0.0069,97.531992
+XP+AF8-006100103.1,Myotis lucifugus,Laurasiatheria,0.008,97.531992
+XP+AF8-023989433.1,Physeter catodon,Laurasiatheria,42500,97.714806
+XP+AF8-024411768.1,Desmodus rotundus,Laurasiatheria,0.033,97.897625
+NP+AF8-001075227.1,Equus caballus,Laurasiatheria,563.5,98.720294
+XP+AF8-021550977.1,Neomonachus schauinslandi,Laurasiatheria,220,96.800733
+XP+AF8-006172852.1,Camelus ferus,Laurasiatheria,800,98.171848
+XP+AF8-010953031.1,Camelus bactrianus,Laurasiatheria,475,98.628885
+XP+AF8-007180640.1,Balaenoptera acutorostrata scammoni,Laurasiatheria,9200,98.537475
+XP+AF8-024608986.1,Neophocaena asiaeorientalis asiaeorientalis,Laurasiatheria,32,98.354661
+XP+AF8-007449624.1,Lipotes vexillifer,Laurasiatheria,104.5,98.537475
+XP+AF8-005909865.1,Bos mutus,Laurasiatheria,562.5,96.516955
+XP+AF8-006080999.1,Bubalus bubalis,Laurasiatheria,725,95.612431
+NP+AF8-999020.2,Sus scrofa,Laurasiatheria,169,98.994517
+XP+AF8-005978098.1,Pantholops hodgsonii,Laurasiatheria,33,97.897625
+NP+AF8-777152.1,Bos taurus,Laurasiatheria,755,98.537475
+XP+AF8-010829714.1,Bison bison bison,Laurasiatheria,600,98.602051
+XP+AF8-020765607.1,Odocoileus virginianus texanus,Laurasiatheria,47.6,98.903108
+XP+AF8-004010374.1,Ovis aries,Laurasiatheria,110,98.811698
+XP+AF8-017910093.1,Capra hircus,Laurasiatheria,45,98.903108
+XP+AF8-019518639.1,Hipposideros armiger,Laurasiatheria,0.009,98.446071
+XP+AF8-015976038.1,Rousettus aegyptiacus,Laurasiatheria,0.125,99.085921
+XP+AF8-011371126.2,Pteropus vampyrus,Laurasiatheria,0.85,98.994517
+XP+AF8-024903789.1,Pteropus alecto,Laurasiatheria,0.74,98.903108
+XP+AF8-007098159.1,Panthera tigris altaica,Laurasiatheria,176.4,96.946567
+XP+AF8-022376824.1,Enhydra lutris kenyoni,Laurasiatheria,45,98.720294
+NP+AF8-001107183.1,Canis lupus familiaris,Laurasiatheria,35.5,99.177331
+XP+AF8-025775073.1,Puma concolor,Laurasiatheria,76.5,98.96422
+XP+AF8-014932831.1,Acinonyx jubatus,Laurasiatheria,51,98.994517
+XP+AF8-019284943.1,Panthera pardus,Laurasiatheria,41,99.085921
+XP+AF8-020821120.1,Phascolarctos cinereus,Metatheria,15,98.263252
+XP+AF8-001369357.1,Monodelphis domestica,Metatheria,0.048,98.263252
+XP+AF8-003755890.1,Sarcophilus harrisii,Metatheria,8,97.349179
+XP+AF8-023439265.1,Dasypus novemcinctus,Metatheria,5.5,99.177331
+XP+AF8-004390599.1,Trichechus manatus latirostris,zAfrotheria,480,98.233563

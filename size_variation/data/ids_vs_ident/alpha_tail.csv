@@ -1,0 +1,66 @@
+tag,id,Species,Mass (kg),Clade
+XP+AF8-005882280.1,97.451669,Myotis brandtii,0.0069,Laurasiatheria
+XP+AF8-004609521.1,96.397185,Sorex araneus,0.0095,Laurasiatheria
+XP+AF8-016061324.1,98.066783,Miniopterus natalensis,0.01,Laurasiatheria
+XP+AF8-021037156.1,99.912125,Mus caroli,0.011,Euarchontoglires
+sp+AHw-Q02566+AHw-MYH6+AF8-MOUSE,100,Mus musculus,0.017,Euarchontoglires
+XP+AF8-015862441.1,98.681897,Peromyscus maniculatus bairdii,0.017,Euarchontoglires
+XP+AF8-021058901.1,99.384886,Mus pahari,0.017,Euarchontoglires
+XP+AF8-007609273.1,98.154658,Cricetulus griseus,0.0224,Euarchontoglires
+XP+AF8-008156717.1,97.715288,Eptesicus fuscus,0.023,Euarchontoglires
+XP+AF8-024412540.1,96.92443,Desmodus rotundus,0.033,Laurasiatheria
+XP+AF8-007479898.1,96.74868,Monodelphis domestica,0.048,Metatheria
+XP+AF8-015976036.1,98.154658,Rousettus aegyptiacus,0.125,Laurasiatheria
+XP+AF8-008065969.1,97.18805,Tarsius syrichta,0.1315,Euarchontoglires
+XP+AF8-010636061.1,97.275925,Fukomys damarensis,0.144,Euarchontoglires
+XP+AF8-006144588.1,96.742958,Tupaia chinensis,0.16,Euarchontoglires
+XP+AF8-004646741.1,96.712327,Octodon degus,0.235,Euarchontoglires
+sp+AHw-P02563+AHw-MYH6+AF8-RAT,98.594022,Rattus norvegicus,0.325,Euarchontoglires
+XP+AF8-002807255.1,97.275925,Callithrix jacchus,0.33,Laurasiatheria
+XP+AF8-008838093.1,97.803164,Nannospalax galili,0.375,Euarchontoglires
+XP+AF8-004661858.1,92.158592,Jaculus jaculus,0.6,Euarchontoglires
+XP+AF8-005377131.1,97.451669,Chinchilla lanigera,0.65,Euarchontoglires
+XP+AF8-006913645.1,97.978908,Pteropus alecto,0.74,Laurasiatheria
+XP+AF8-012322596.2,97.18805,Aotus nancymaae,0.75,Euarchontoglires
+XP+AF8-026261846.1,97.715288,Urocitellus parryii,0.791,Euarchontoglires
+XP+AF8-011371125.1,98.066783,Pteropus vampyrus,0.85,Laurasiatheria
+XP+AF8-003474534.1,97.451669,Cavia porcellus,0.9,Euarchontoglires
+XP+AF8-008564809.1,97.275925,Galeopterus variegatus,1.45,Euarchontoglires
+XP+AF8-017203695.1,97.715288,Oryctolagus cuniculus,2,Euarchontoglires
+XP+AF8-011281658.1,97.539544,Felis catus,4.75,Laurasiatheria
+XP+AF8-007989070.1,97.18805,Chlorocebus sabaeus,5,Euarchontoglires
+XP+AF8-011770590.1,96.92443,Macaca nemestrina,6.55,Euarchontoglires
+XP+AF8-015309076.1,97.012305,Macaca fascicularis,6.55,Euarchontoglires
+XP+AF8-014998893.1,97.100174,Macaca mulatta,8,Laurasiatheria
+XP+AF8-026302734.1,96.657872,Piliocolobus tephrosceles,8.8,Laurasiatheria
+XP+AF8-011786219.1,96.836555,Colobus angolensis palliatus,8.9,Euarchontoglires
+XP+AF8-011943856.1,96.74868,Cercocebus atys,9.5,Euarchontoglires
+XP+AF8-025863328.1,96.660811,Vulpes vulpes,14,Laurasiatheria
+XP+AF8-020821435.1,96.397185,Phascolarctos cinereus,15,Metatheria
+XP+AF8-025246936.1,97.100174,Theropithecus gelada,16,Euarchontoglires
+XP+AF8-010376719.1,97.100174,Rhinopithecus roxellana,16.4,Euarchontoglires
+XP+AF8-011846084.1,97.18805,Mandrillus leucophaeus,18.25,Euarchontoglires
+XP+AF8-009209486.1,97.012305,Papio anubis,19.5,Euarchontoglires
+XP+AF8-025298458.1,96.48506,Canis lupus dingo,20,Laurasiatheria
+XP+AF8-020037196.1,97.363794,Castor canadensis,22.5,Euarchontoglires
+XP+AF8-019284942.1,97.100174,Panthera pardus,41,Laurasiatheria
+XP+AF8-003808133.1,97.275925,Pan paniscus,44,Euarchontoglires
+XP+AF8-017910094.1,97.100174,Capra hircus,45,Laurasiatheria
+XP+AF8-020765589.1,97.275925,Odocoileus virginianus texanus,47.6,Laurasiatheria
+XP+AF8-016781378.2,97.363794,Pan troglodytes,48,Euarchontoglires
+XP+AF8-024087214.1,97.275925,Pongo abelii,60,Euarchontoglires
+XP+AF8-007949394.1,97.275925,Orycteropus afer afer,61,zAfrotheria
+sp+AHw-P13533+AHw-MYH6+AF8-HUMAN,97.18805,Homo sapiens,68,Euarchontoglires
+XP+AF8-007449625.1,95.869946,Lipotes vexillifer,104.5,Laurasiatheria
+XP+AF8-014961896.1,96.92443,Ovis aries,110,Laurasiatheria
+XP+AF8-018865224.1,97.18805,Gorilla gorilla gorilla,140,Euarchontoglires
+XP+AF8-020954893.1,96.74868,Sus scrofa,169,Laurasiatheria
+XP+AF8-021550983.1,94.639719,Neomonachus schauinslandi,220,Laurasiatheria
+XP+AF8-014711768.1,96.572936,Equus asinus,250,Laurasiatheria
+XP+AF8-026342257.1,95.942289,Ursus arctos horribilis,270,Laurasiatheria
+XP+AF8-004320251.1,95.957822,Tursiops truncatus,400,Laurasiatheria
+XP+AF8-010953032.1,94.551843,Camelus bactrianus,475,Laurasiatheria
+XP+AF8-025151888.1,97.363794,Bubalus bubalis,725,Laurasiatheria
+XP+AF8-024853710.1,97.451669,Canis lupus dingo,755,Laurasiatheria
+XP+AF8-007180901.1,95.510566,Balaenoptera acutorostrata scammoni,9200,Laurasiatheria
+XP+AF8-023989424.1,95.869946,Physeter catodon,42500,Laurasiatheria

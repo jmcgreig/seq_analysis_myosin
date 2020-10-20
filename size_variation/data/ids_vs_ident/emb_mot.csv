@@ -1,0 +1,61 @@
+tag,id,Species,Mass (kg),Clade
+XP+AF8-002921226.1,98.500001,Ailuropoda melanoleuca,102.5,Laurasiatheria
+XP+AF8-007175343.1,98.500001,Balaenoptera acutorostrata scammoni,9200,Laurasiatheria
+XP+AF8-010841308.1,98.124999,Bison bison bison,600,Laurasiatheria
+XP+AF8-005907260.1,98.124999,Bos mutus,562.5,Laurasiatheria
+NP+AF8-001095305.1,98.250002,Bos taurus,455,Laurasiatheria
+XP+AF8-006055107.1,98.250002,Bubalus bubalis,725,Laurasiatheria
+XP+AF8-002806839.1,98.750001,Callithrix jacchus,0.33,Euarchontoglires
+XP+AF8-010964285.1,98.250002,Camelus bactrianus,475,Laurasiatheria
+XP+AF8-010986392.1,97.622025,Camelus dromedarius,495,Laurasiatheria
+XP+AF8-006181417.1,98.250002,Camelus ferus,800,Laurasiatheria
+XP+AF8-001114005.2,95.625001,Macaca mulatta,20,Laurasiatheria
+XP+AF8-005619582.1,98.624998,Canis lupus familiaris,35.5,Laurasiatheria
+XP+AF8-003466269.1,98.374999,Cavia porcellus,0.9,Euarchontoglires
+XP+AF8-004433113.1,98.500001,Ceratotherium simum simum,2520,Laurasiatheria
+XP+AF8-011906114.1,98.750001,Cercocebus atys,9.5,Euarchontoglires
+XP+AF8-005399419.1,98.500001,Chinchilla lanigera,0.65,Euarchontoglires
+XP+AF8-008008568.1,98.750001,Chlorocebus sabaeus,5,Euarchontoglires
+XP+AF8-004684642.1,98.000002,Condylura cristata,0.055,Laurasiatheria
+XP+AF8-007630255.1,96.992481,Cricetulus griseus,0.0224,Euarchontoglires
+XP+AF8-004483195.1,98.124999,Dasypus novemcinctus,5.5,Metatheria
+XP+AF8-012868629.1,99.000001,Dipodomys ordii,0.0755,Euarchontoglires
+XP+AF8-008151670.1,98.624998,Eptesicus fuscus,0.023,Laurasiatheria
+XP+AF8-001504905.2,98.374999,Equus caballus,563.5,Laurasiatheria
+XP+AF8-008527759.1,98.374999,Equus przewalskii,250,Laurasiatheria
+XP+AF8-007522826.1,98.374999,Erinaceus europaeus,0.6,Laurasiatheria
+XP+AF8-011287146.1,98.500001,Felis catus,4.75,Laurasiatheria
+XP+AF8-010613296.1,98.250002,Fukomys damarensis,0.144,Euarchontoglires
+NP+AF8-002461.2,98.874998,Homo sapiens,68,Euarchontoglires
+XP+AF8-005332936.1,97.624999,Ictidomys tridecemlineatus,0.125,Euarchontoglires
+XP+AF8-004663184.1,98.750001,Jaculus jaculus,0.6,Euarchontoglires
+XP+AF8-006744844.1,98.624998,Leptonychotes weddellii,500,Laurasiatheria
+XP+AF8-007457908.1,97.250003,Lipotes vexillifer,104.5,Laurasiatheria
+XP+AF8-005582959.1,98.624998,Macaca fascicularis,6.55,Euarchontoglires
+XP+AF8-011828556.1,97.874999,Mandrillus leucophaeus,18.25,Euarchontoglires
+XP+AF8-005349905.1,99.374998,Microtus ochrogaster,0.05,Euarchontoglires
+XP+AF8-001371653.1,96.625,Monodelphis domestica,0.048,Euarchontoglires
+NP+AF8-001093105.1,100,Mus musculus,0.017,Euarchontoglires
+XP+AF8-004760220.1,98.624998,Mustela putorius furo,1.5,Laurasiatheria
+XP+AF8-005878881.1,98.500001,Myotis brandtii,0.0069,Laurasiatheria
+XP+AF8-006099793.1,98.750001,Myotis lucifugus,0.008,Laurasiatheria
+XP+AF8-008853933.1,99.250001,Nannospalax galili,0.375,Euarchontoglires
+XP+AF8-012356893.1,98.874998,Nomascus leucogenys,5.7,Euarchontoglires
+XP+AF8-004645229.1,98.624998,Octodon degus,0.235,Euarchontoglires
+XP+AF8-004398481.1,98.624998,Odobenus rosmarus divergens,1050,Laurasiatheria
+XP+AF8-004266884.1,97.874999,Orcinus orca,7200,Laurasiatheria
+NP+AF8-001182585.1,98.624998,Oryctolagus cuniculus,2,Euarchontoglires
+XP+AF8-012661460.1,98.624998,Otolemur garnettii,0.1025,Euarchontoglires
+XP+AF8-008969597.1,98.874998,Pan paniscus,44,Euarchontoglires
+XP+AF8-007086007.1,98.374999,Panthera tigris altaica,176.4,Laurasiatheria
+XP+AF8-005959866.1,98.250002,Pantholops hodgsonii,33,Laurasiatheria
+XP+AF8-009187946.1,98.874998,Papio anubis,19.5,Euarchontoglires
+XP+AF8-006973571.1,99.250001,Peromyscus maniculatus bairdii,0.017,Euarchontoglires
+XP+AF8-012509396.1,98.500001,Propithecus coquereli,0.305,Euarchontoglires
+XP+AF8-006922456.1,98.500001,Pteropus alecto,0.74,Laurasiatheria
+XP+AF8-011357263.1,98.624998,Pteropus vampyrus,0.85,Laurasiatheria
+NP+AF8-036736.1,99.374998,Rattus norvegicus,0.325,Euarchontoglires
+XP+AF8-004603954.1,98.374999,Sorex araneus,0.0095,Laurasiatheria
+XP+AF8-008048958.1,98.624998,Tarsius syrichta,0.1315,Euarchontoglires
+XP+AF8-006156482.1,97.874999,Tupaia chinensis,0.16,Euarchontoglires
+XP+AF8-006216239.1,98.000002,Vicugna pacos,60,Laurasiatheria

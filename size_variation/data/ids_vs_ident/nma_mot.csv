@@ -1,0 +1,60 @@
+tag,id,Species,Mass (kg),Clade
+XP+AF8-011217103.1,99.250001,Ailuropoda melanoleuca,102.5,Laurasiatheria
+XP+AF8-012331782.1,99.374998,Aotus nancymaae,0.75,Euarchontoglires
+XP+AF8-007165739.1,99.250001,Balaenoptera acutorostrata scammoni,9200,Laurasiatheria
+NP+AF8-001179691.1,98.624998,Bos taurus,455,Laurasiatheria
+XP+AF8-006057029.1,98.624998,Bubalus bubalis,725,Laurasiatheria
+XP+AF8-009008395.1,99.374998,Callithrix jacchus,0.33,Euarchontoglires
+XP+AF8-010958676.1,99.124998,Camelus bactrianus,475,Laurasiatheria
+XP+AF8-010997289.1,96.875,Camelus dromedarius,495,Laurasiatheria
+XP+AF8-006194713.1,99.124998,Camelus ferus,800,Laurasiatheria
+NP+AF8-001104237.1,99.374998,Canis lupus familiaris,35.5,Laurasiatheria
+XP+AF8-005680817.1,98.624998,Capra hircus,45,Laurasiatheria
+XP+AF8-003470507.1,99.374998,Cavia porcellus,0.9,Euarchontoglires
+XP+AF8-004418151.1,99.124998,Ceratotherium simum simum,2520,Laurasiatheria
+XP+AF8-011893491.1,99.250001,Cercocebus atys,9.5,Euarchontoglires
+XP+AF8-013366946.1,99.374998,Chinchilla lanigera,0.65,Euarchontoglires
+XP+AF8-007973837.1,99.250001,Chlorocebus sabaeus,5,Euarchontoglires
+XP+AF8-006865288.1,99.124998,Chrysochloris asiatica,0.042,zAfrotheria
+XP+AF8-011819709.1,99.000001,Colobus angolensis palliatus,8.9,Euarchontoglires
+XP+AF8-007622799.1,99.624997,Cricetulus griseus,0.0224,Euarchontoglires
+XP+AF8-012880308.1,99.374998,Dipodomys ordii,0.0755,Euarchontoglires
+XP+AF8-006890222.1,98.874998,Elephantulus edwardii,0.0695,zAfrotheria
+XP+AF8-008142904.1,98.750001,Eptesicus fuscus,0.023,Laurasiatheria
+XP+AF8-007519425.1,99.5,Erinaceus europaeus,0.6,Laurasiatheria
+XP+AF8-010612194.1,99.374998,Fukomys damarensis,0.144,Euarchontoglires
+XP+AF8-008585579.1,99.249059,Galeopterus variegatus,1.45,Euarchontoglires
+NP+AF8-002464.1,99.250001,Homo sapiens,68,Euarchontoglires
+XP+AF8-005322354.1,99.624997,Ictidomys tridecemlineatus,0.125,Euarchontoglires
+XP+AF8-004650327.1,99.124998,Jaculus jaculus,0.6,Euarchontoglires
+XP+AF8-007446800.1,98.624998,Lipotes vexillifer,104.5,Laurasiatheria
+XP+AF8-010597690.1,99.374998,Loxodonta africana,4800,zAfrotheria
+XP+AF8-005567470.1,99.250001,Macaca fascicularis,6.55,Euarchontoglires
+XP+AF8-011710795.1,99.250001,Macaca nemestrina,6.55,Euarchontoglires
+XP+AF8-011834336.1,95.125002,Mandrillus leucophaeus,18.25,Euarchontoglires
+XP+AF8-012642489.1,98.750001,Microcebus murinus,0.06,Euarchontoglires
+XP+AF8-013204243.1,99.624997,Microtus ochrogaster,0.05,Euarchontoglires
+NP+AF8-071855.2,100,Mus musculus,0.017,Euarchontoglires
+XP+AF8-005883308.1,98.750001,Myotis brandtii,0.0069,Laurasiatheria
+XP+AF8-006757501.1,98.750001,Myotis davidii,0.0085,Laurasiatheria
+XP+AF8-008853014.1,99.374998,Nannospalax galili,0.375,Euarchontoglires
+XP+AF8-004589604.1,99.5,Ochotona princeps,0.1485,Euarchontoglires
+XP+AF8-004634632.1,99.374998,Octodon degus,0.235,Euarchontoglires
+XP+AF8-004417395.1,99.5,Odobenus rosmarus divergens,1050,Laurasiatheria
+XP+AF8-004279478.1,99.124998,Orcinus orca,7200,Laurasiatheria
+XP+AF8-003430622.1,98.250002,Ornithorhynchus anatinus,1.65,Metatheria
+XP+AF8-007952162.1,99.250001,Orycteropus afer afer,61,zAfrotheria
+XP+AF8-008255309.1,99.374998,Oryctolagus cuniculus,2,Euarchontoglires
+XP+AF8-012656616.1,99.000001,Otolemur garnettii,0.1025,Euarchontoglires
+XP+AF8-012004193.1,98.624998,Ovis aries,110,Laurasiatheria
+XP+AF8-008973255.1,99.250001,Pan paniscus,44,Euarchontoglires
+XP+AF8-009215489.1,98.874998,Papio anubis,19.5,Euarchontoglires
+XP+AF8-006991969.1,99.5,Peromyscus maniculatus bairdii,0.017,Euarchontoglires
+XP+AF8-009232594.1,99.250001,Pongo abelii,60,Euarchontoglires
+XP+AF8-012493546.1,99.124998,Propithecus coquereli,0.305,Euarchontoglires
+XP+AF8-006914548.1,98.874998,Pteropus alecto,0.74,Laurasiatheria
+XP+AF8-011385610.1,98.750001,Pteropus vampyrus,0.85,Laurasiatheria
+NP+AF8-001292806.1,99.624997,Rattus norvegicus,0.325,Euarchontoglires
+XP+AF8-010387470.1,99.250001,Rhinopithecus roxellana,16.4,Euarchontoglires
+XP+AF8-010341809.1,99.374998,Saimiri boliviensis boliviensis,0.75,Euarchontoglires
+XP+AF8-006207100.1,96.375,Vicugna pacos,60,Laurasiatheria

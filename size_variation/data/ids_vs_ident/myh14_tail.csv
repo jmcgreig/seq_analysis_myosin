@@ -1,4 +1,4 @@
-tag,id,Species,Mass (kg),Clade
+id,id,Species,Mass (kg), Clade
 A0A1A6HX72,95.18,Neotoma lepida ,0.14,Euarchontoglires
 A0A1S3G524,90.45,Dipodomys ordii ,0.0755,Euarchontoglires
 A0A1S3WLM3,88.24,Erinaceus europaeus ,0.6,Laurasiatheria
