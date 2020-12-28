@@ -1,9 +1,9 @@
-  library(Hmisc) 
   library(ncar)
           #-----------------------------------------------
     # Store graphics in a pdf file. Comment out this
     # line incar v0.3.4f you want plots to the screen
     #-----------------------------------------------
+  setwd("/home/jake/Documents/projects/myosin/git/chimera/scripts/")
   pdf("../figures/transitions.pdf", paper="a4", width = 8.3, height = 11.7)
   
     #---------------------------------------------------
@@ -84,7 +84,7 @@
     tmp = factor(tmp)
     levels(tmp) = aas[of][1:2]
     data[,j] = tmp
-  
+
       # The following section of code only works if there are
       # at least two distinct amino acids at the site
       # (What you have is fine, but can also replace with alternative)
@@ -142,6 +142,7 @@
   
      # print(tt)
       p.clade[j] = fisher.test(tt)$p.value
+      
     }
   }
   
@@ -149,7 +150,7 @@
   #---------------------------
     # Use a 5 x 3 array of plots
     #---------------------------
-  par(mfrow=c(5,3), par(mar=c(4,2.5,2.5,1) + 0.1))
+  par(mfrow=c(4,3), par(mar=c(4,2.5,2.5,1) + 0.1))
   k=1
   lst = (k-1)*15 + 1:15
   lst = 1:n.columns
@@ -169,28 +170,59 @@
       if (freqs[2]/freqs[1] > threshold) run.i = TRUE
     }
     if (run.i) {
+      
       most_freq = levels(data[,lst[i]])[1]
       pen_freq = levels(data[,lst[i]])[2]
       
+      exclude <- c(77,125, 331,354, 808)
+      
+      if ((!i %in%  exclude)) {
+        
+        i2 = i
+
+      bottoms <- c(339,348, 426, 429, 435, 576, 580, 587)
+        
       switchers <- c(8,15,65,111,211,331,339,348,354,426,429,435,516,576,580,587,592)
       if ( i %in%  switchers) {
         x1  = factor(data[,lst[i]], levels=c(pen_freq, most_freq))
-        
         # levels(data[,lst[i]])[1] <- pen_freq
         # levels(data[,lst[i]])[2] <- most_freq
 
       cat("Plotting", i, lst[i], "\n")
       
-      headr = paste(pos[lst[i]], ": P = ", 
-                    as.character(round(wilc.pmass[lst[i]],4)), sep="")
+      hey= gsub("X", "", pos[lst[i2]])
+      hello = format(wilc.pmass[lst[i]], scientific=T, digits = 3)
+      headr = paste(hey, ": P = ",
+                    as.character(hello), sep="")
       v = as.numeric(x1) - 1
       
+      if (i %in% bottoms){
+        line_pos = -12
+        adj_pos = 0.8
+      } else{
+        line_pos = -2
+        adj_pos = 0.1
+      }
       
 
         
       x = log(as.numeric(mass))
+      mylist = c()
+      for (i in as.numeric(clade2)){
+        if (is.na(i)){
+          mylist <- c(mylist, "blue")
+        } 
+        else if (i == 1){     
+          mylist <- c(mylist, "blue")
+        }
+        else if (i == 2){
+          mylist <- c(mylist, "black")
+        }
+        
+      }
+      plot(x, v, pch=c(22,2)[as.numeric(clade2)], yaxt="n", col = mylist, xlab="", ylab="" )
+      title(headr, line = line_pos, adj = adj_pos)
       
-      plot(x, v, pch=20, yaxt="n", main=headr, xlab="", ylab="" )
       axis(2, at=c(0,1), labels=levels(x1), las=2)
       g=glm(v ~ x, family="binomial")
       
@@ -205,16 +237,47 @@
       else { 
         cat("Plotting", i, lst[i], "\n")
         
-        headr = paste(pos[lst[i]], ": P = ", 
-                      as.character(round(wilc.pmass[lst[i]],4)), sep="")
+        hey= gsub("X", "", pos[lst[i2]])
+
+          
+        hello = format(wilc.pmass[lst[i]], scientific=T, digits = 3)
+        
+        print(hello)
+        headr = paste(hey, ": P = ",
+                      as.character(hello), sep="")
         v = as.numeric(data[,lst[i]]) - 1
         
-        
+        if (i %in% bottoms){
+          line_pos = -12
+          adj_pos = 0.8
+        } else{
+        line_pos = -2
+        adj_pos = 0.1
+        }
         
         
         x = log(as.numeric(mass))
+        mylist = c()
+        for (z in as.numeric(clade2)){
+          if (is.na(z)){
+            mylist <- c(mylist, "blue")
+          } 
+          else if (z == 1){     
+            mylist <- c(mylist, "blue")
+          }
+          else if (z == 2){
+            mylist <- c(mylist, "black")
+          }
+          
+        }
         
-        plot(x, v, pch=20, yaxt="n", main=headr, xlab="", ylab="" )
+        print(i)
+        print(levels(data[,lst[i]]))
+
+        
+        plot(x, v, pch=c(22,2)[as.numeric(clade2)], yaxt="n", col = mylist, xlab="", ylab="" )
+        title(headr, line = line_pos, adj = adj_pos)
+        
         axis(2, at=c(0,1), labels=levels(data[,lst[i]]), las=2)
         g=glm(v ~ x, family="binomial")
         
@@ -224,74 +287,76 @@
         xx = x[!is.na(v)]
         lines(xx[order(xx)], fitted(g)[order(xx)], col="red")
 
-
       }
-    } 
+    } }
   }
   
-    #--------------------------------------------------------------------
-    # These are the plots of p-values. The top plot shows the p-value
-    # based on the Fisher test for association with clade. The bottom
-    # plot shows the p-value for the Wilcoxon test for difference
-    # in log(mass). P-values are shown on a log-scale (log to the base e)
-    # The horizontal lines show various P-values
-    #--------------------------------------------------------------------
+  # --------------------------------------------------------------------
+  # These are the plots of p-values. The top plot shows the p-value
+  # based on the Fisher test for association with clade. The bottom
+  # plot shows the p-value for the Wilcoxon test for difference
+  # in log(mass). P-values are shown on a log-scale (log to the base e)
+  # The horizontal lines show various P-values
+  # --------------------------------------------------------------------
   xpos = 0.9 * ncol(data)
   par(mfrow=c(2,1))
-  plot(1:ncol(data), -log(p.clade), pch=20, main="Association with clade")
+  plot(1:ncol(data), -log10(p.clade), pch=20, main="Association with clade")
   axis(1,  at=c(seq(0, 800, by=100),
        labels= c(seq(0, 800, by=100))))
   minor.tick(nx = 10)
-  
+
   # seq(0, 800, by=100)
-  abline(h=-log(0.05), col="gray")
-  text(xpos, -log(0.05), "P = 0.05", col="gray")
-  abline(h=-log(0.01), col="blue")
-  text(xpos, -log(0.01), "P = 0.01", col="blue")
-  abline(h=-log(0.001), col="red")
-  text(xpos, -log(0.001), "P = 0.001", col="red")
-  abline(h=-log(0.001/ncol(data)), v=log(0.05/ncol(data)), col="green")
-  
-  
-  plot(1:ncol(data), -log(wilc.pmass), pch=20, main="P-value for trend")
+  abline(h=-log10(0.05), col="gray")
+  text(xpos, -log10(0.05), "P = 0.05", col="gray")
+  abline(h=-log10(0.01), col="blue")
+  text(xpos, -log10(0.01), "P = 0.01", col="blue")
+
+
+  plot(1:ncol(data), -log10(wilc.pmass), pch=20, main="P-value for trend")
   axis(1,  at=c(seq(0, 800, by=100),
                 labels= c(seq(0, 800, by=100))))
-  minor.tick(nx = 10)
+  minor.tick(nx = 1)
+
+  abline(h=-log10(0.05), col="gray")
+  text(xpos, -log10(0.05), "P = 0.05", col="gray")
+  abline(h=-log10(0.01), col="blue")
+  text(xpos, -log10(0.01), "P = 0.01", col="blue")
+  print(-log10(p.clade)[0:9050])
+  print(p.clade)
+  listy = c(331, 348, 354, 371, 426, 429, 435,439, 560,576,580,587)
+  for (qi in listy){
+    print(paste(qi, "," , p.clade[qi]))
+    # print(paste(qi, "," , wilc.pmass[qi]))
+    
+  }
   
-  abline(h=-log(0.05), col="gray")
-  text(xpos, -log(0.05), "P = 0.05", col="gray")
-  abline(h=-log(0.01), col="blue")
-  text(xpos, -log(0.01), "P = 0.01", col="blue")
-  abline(h=-log(0.001), col="red")
-  text(xpos, -log(0.001), "P = 0.001", col="red")
-  abline(h=-log(0.001/ncol(data)), v=log(0.05/ncol(data)), col="green")
   
     #-------------------------------------------------------------
     # Finally, look at possible association between positions
     # For each pair of columns, create a 2x2 table showing the two
     # commonest amino acids at each position. Then do a Fisher
-    # exact test to determine if any significant assocation. 
-    # Display all pairs for which the significance level is 
+    # exact test to determine if any significant assocation.
+    # Display all pairs for which the significance level is
     # below the value cutoff
     #-------------------------------------------------------------
   cutoff = 0.001
   kount = 0
   pos1 = pos2 = character(1000)
   pval = numeric(1000)
-  
+
   m = matrix(0, ncol(data), ncol(data))
-  
+
   for (i in 1:(ncol(data)-1)) {
     m[i,ncol(data)+1-i] = 1
     for (j in (i+1):ncol(data)) {
       tt = tapply(1:nrow(data), list(data[,i], data[,j]), length)
       tt[is.na(tt)] = 0
-      
+
       if (nrow(tt) >= 2 & ncol(tt) >= 2) {
-        
-         m[i,ncol(data)+1-j] = fisher.test(tt)$p.value   
-     
-      
+
+         m[i,ncol(data)+1-j] = fisher.test(tt)$p.value
+
+
         if (m[i,ncol(data)+1-j] < cutoff) {
           kount = kount + 1
           pos1[kount] = pos[i]
@@ -307,7 +372,7 @@
   }
   m[ncol(data),1] = 1
   noquote(head(cbind(pos1, pos2, round(pval,7)), n=kount))
-  
+
     #---------------------------------
     # Close the pdf file with graphics
     #---------------------------------

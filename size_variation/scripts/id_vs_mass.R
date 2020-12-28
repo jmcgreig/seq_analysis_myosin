@@ -12,14 +12,8 @@ setwd('/home/jake/Documents/projects/myosin/chimera/scripts/')
 # jpeg(filename = "id_vs_mass_paper_sup.jpeg",
      # width = 18, height = 25, units = "cm",
      # quality = 75, res = 200)
-# files <- c("2a_mot.csv", "2a_tail.csv", "2b_mot.csv", "2b_tail.csv",  
-#            "2x_mot.csv", "2x_tail.csv", "alpha_mot.csv", "alpha_tail.csv",
-#            "emb_mot.csv",  "emb_tail.csv", "exoc_mot.csv", "exoc_tail.csv", 
-#            "nma_mot.csv",  "nma_tail.csv","nmb_mot.csv", "nmb_tail.csv", 
-#            "peri_mot.csv", "peri_tail.csv", "slowt_mot.csv",  "slowt_tail.csv",
-#            "sm_mot.csv", "sm_tail.csv")
+files <- c("beta_mot.csv")
 kount = 0
-files <- c( "myh14_mot.csv", "myh14_tail.csv")
 
 
 opar <- par(mfrow = c (3,2), mar = c(0,1,1.5,1), oma = c(4, 4, 0, 0))
@@ -47,17 +41,11 @@ for (input in files){
     opar <- par(mfrow = c (3,2), mar = c(0,1,1.5,1), oma = c(4, 4, 0, 0))
     
   }
-  input
   ni <- gsub("_.*?csv", "", input)
-  ni
   rtab = read.csv(input, header = T)
-  rtab
   mass <- rtab$Mass..kg.
   id <- rtab$id
-  # cla <- rtab$Clade
-  # cla
-  id
-  
+
   
   ########Robust regression################################
   slopey_lin <- lm(id ~ log10(mass))$coeff[2]
@@ -68,24 +56,17 @@ for (input in files){
   fm.rlm <- rlm(id ~ log10(mass), data=rtab)
   
   summ <- summary(fm.orig)
-  summ
   Rvalue <- summ$r.squared
-  Rvalue
   summRR <- summary(fm.rlm)
-  summRR
   sloptRR <- summRR$coefficients[[2]]
-  sloptRR
   errorRR <- summRR$coefficients[[4]]
-  errorRR
-  
+
   
   summ <- summary(fm.orig)
-  summ
   slopt <- summ$coefficients[[2]]
   
   error <- summ$coefficients[[4]]
-  error
-  
+
   model = lmrob(id ~ log10(mass))
   g <- summary(model)
   robslop <- g$coefficients[2]
@@ -102,8 +83,7 @@ for (input in files){
   as.factor(rtab$Clade)
   
   
-  
-  
+
   
   
   plot(id ~ mass, data=rtab,
